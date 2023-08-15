@@ -1,0 +1,2685 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\data-table.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\documentation.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\tabs.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\js\\template.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\template.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\et-line-icon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\et-line-icon.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\reset.css",
+      "PackagePath": "staticwebassets\\assets\\css\\reset.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-detail.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-img.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog7.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog8.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\blog\\blog9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog9.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\choose\\choose-bd.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\choose\\choose-bd.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\choose\\choose.png",
+      "PackagePath": "staticwebassets\\assets\\img\\choose\\choose.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\contact\\contact1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact1.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\contact\\contact2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact2.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\contact\\contact3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact3.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-bg.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course4.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course5.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course6.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course7.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course8.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\course9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course9.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\course\\courses-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\courses-details.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-details.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event10.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event11.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event12.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event13.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event5.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event6.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event7.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event8.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\event9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event9.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\speaker1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\speaker1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\event\\speaker2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\speaker2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\footer\\footer1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\footer\\footer2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\footer\\footer3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\footer\\footer4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer4.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\icon\\section.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\section.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\icon\\section1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\section1.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\logo\\footer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\notice\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\notice\\video.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\post\\post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\post\\post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\post\\post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\slider\\3bc092ed-470b-4e32-b825-2e40c2e4603c-slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3bc092ed-470b-4e32-b825-2e40c2e4603c-slider1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\slider\\ab9548d6-38bc-4fd2-b793-f4c8566bb672-slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\ab9548d6-38bc-4fd2-b793-f4c8566bb672-slider3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\slider\\home.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\home.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher-details.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher1.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher10.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher11.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher12.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher2.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher3.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher4.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher5.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher6.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher7.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher8.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\teacher\\teacher9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher9.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\testimonial\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\img\\testimonial\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\vendor\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\README.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\config.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\README.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\plugindefinition.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\plugindefinition.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\notification.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\notification.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\templatedefinition.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templatedefinition.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "D:\\EduHome\\EduHome\\wwwroot\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EduHome.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EduHome.props",
+      "PackagePath": "build\\EduHome.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EduHome.props",
+      "PackagePath": "buildMultiTargeting\\EduHome.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EduHome.props",
+      "PackagePath": "buildTransitive\\EduHome.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

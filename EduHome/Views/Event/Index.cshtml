@@ -1,0 +1,65 @@
+﻿@using EduHome.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Event";
+
+
+}
+@model IEnumerable<Events>
+<!-- Banner Area End -->
+<div class="banner-area-wrapper">
+    <div class="banner-area text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="banner-content-wrapper">
+                        <div class="banner-content">
+                            <h2>event</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Event Start -->
+<div class="event-area three text-center pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+
+            @foreach(var events in Model)
+            {
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-event mb-60">
+                        <div class="event-img">
+                            <a href="event-details.html">
+                                <img src="~/assets/img/event/@events.Image" alt="event">
+                                <div class="course-hover">
+                                    <i class="fa fa-link"></i>
+                                </div>
+                            </a>
+                            <div class="event-date">
+                                <h3>@events.EventTime <span>jun</span></h3>
+                            </div>
+                        </div>
+                        <div class="event-content text-left">
+                            <h4><a href="event-details.html">ADVANCE PHP WORKSHOP</a></h4>
+                            <ul>
+                                <li><span>time:</span> @events.Time</li>
+                                <li><span>venue</span> @events.Venue</li>
+                            </ul>
+                            <div class="event-content-right">
+                            @*    <a class="default-btn" asp-action="JOINNOW" asp-route="@events.Id">join now</a>*@
+                            <a class="default-btn" asp-controller="Event" asp-action="Joinnow" asp-route-id="@events.Id">join now</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+           
+           
+        </div>
+    </div>
+</div>
+

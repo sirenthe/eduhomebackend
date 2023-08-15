@@ -1,0 +1,57 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using EduHome.ViewModels
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LoginViewModel
+<div class="register-area pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center">
+                <div class="login">
+                    <div class="login-form-container">
+                        <div class="login-text">
+                            <h2>log in</h2>
+                            <span>Please login using account detail bellow.</span>
+                        </div>
+                        <div class="login-form">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <form  method="post">
+
+                          
+
+                                <label>Username</label>
+                                <input asp-for="UsernameorEmail" placeholder="UsernameorEmail" />
+                                <span asp-validation-for="UsernameorEmail" class="text-danger"></span>
+
+                           
+
+                                <label>Password</label>
+                                <input asp-for="Password" placeholder="password" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+
+                               
+                        <div class="check-box">
+                          <input asp-for="RememberMe" />
+                          <label for="RememberMe">RememberMe</label>
+                        </div   >
+                     
+                 
+                        <div class="forgotton-password_info">
+                          <a asp-action="ForgotPassword"> Forgotten pasword?</a>
+                        </div>
+                    
+                                <div class="button-box">
+                                    <button type="submit" class="default-btn">Login</button>
+                                </div>
+  
+                      </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

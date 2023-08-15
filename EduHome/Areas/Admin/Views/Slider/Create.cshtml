@@ -1,0 +1,52 @@
+﻿@using EduHome.Models
+@using EduHome.Areas.Admin.ViewModels.SliderViewModels
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+	ViewData["Title"] = "Create";
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@model CreateSliderViewModel
+
+
+<div class="card">
+	<div class="card-body">
+		<h4 class="card-title">Slider</h4>
+
+		<form class="forms-sample" method="post" enctype="multipart/form-data">
+			<div class="form-group">
+				<label for="exampleInputUsername1">Image</label>
+				<input class="form-control" asp-for="Img" placeholder="Img" accept="image/*"
+>
+				<span asp-validation-for="Img" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label for="exampleInputUsername1">Title</label>
+				<input class="form-control" asp-for="Title" placeholder="Title">
+				<span asp-validation-for="Title" class="text-danger"></span>
+			</div>
+			
+			<div class="form-group">
+				<label for="exampleInputUsername1">Description</label>
+				<input class="form-control" asp-for="Description" placeholder="Description">
+				<span asp-validation-for="Description" class="text-danger"></span>
+			</div>
+			<textarea id="editor"></textarea>
+			<script>
+				ClassicEditor
+					.create(document.querySelector('#editor'))
+					.then(editor => {
+						console.log(editor);
+					})
+					.catch(error => {
+						console.error(error);
+					});
+			</script>
+
+			<button asp-action="Create" class="btn btn-primary mr-2">Create</button>
+
+		</form>
+	</div>
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/ckeditor/ckeditor.js"></script>
